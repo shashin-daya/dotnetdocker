@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLVs1XzTrdP7nMXp5VDwnsfR62NP6p33B+X8CmVgn/JV5wfNfW/1fekKobAhwd4DBEDUo2MC1h+/lexm9V43qw==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\git\\dotnetdocker\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shashin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shashin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

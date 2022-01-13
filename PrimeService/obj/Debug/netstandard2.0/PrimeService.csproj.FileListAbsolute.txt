@@ -1,0 +1,10 @@
+D:\Code\git\dotnetdocker\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+D:\Code\git\dotnetdocker\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+D:\Code\git\dotnetdocker\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+D:\Code\git\dotnetdocker\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+D:\Code\git\dotnetdocker\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\git\dotnetdocker\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+D:\Code\git\dotnetdocker\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+D:\Code\git\dotnetdocker\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+D:\Code\git\dotnetdocker\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+D:\Code\git\dotnetdocker\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
